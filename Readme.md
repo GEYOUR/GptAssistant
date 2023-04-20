@@ -1,3 +1,5 @@
+<img title="" src="./src/icon_GptAssistantI.jpg" alt="icon" width="148">
+
 ## GptAssistant
 
 This is a Python project that uses openai's GPT-3/4 to create a chatbot that can perform various roles such as a translator or an English teacher. The user can input a message and select a role for the chatbot to respond in.
