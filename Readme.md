@@ -21,7 +21,7 @@ The main window will appear, allowing the user to input a message and select a r
 
 ### Interface
 
-![screenshot.png](.\src\screenshot.png)
+![](./src/screenshot.png)
 
 ### How it Works
 
